@@ -1,10 +1,11 @@
 keibe80/Readme.md 
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/keibe80/keine80/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png" width="800"/>
+  <img decoding="async" src="https://github.com/keibe80/keibe80/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png" width="800"/>
 </div>
 
-## Hi there 👋
+## Me presento:
 
+Soy un profesional en la rama de le tecnología con experiencia en gestión de infraestructuras tecnológicas, análisis de datos y soluciones de telecomunicaciones. Mi formación académica y experiencia laboral me ha permitido desarrollar habilidades técnicas avanzadas en lenguajes de programación como Python, SQL, y C, así como en herramientas clave para el análisis de datos, como Tableau, Excel avanzado, y GitHub.
 <!--
 **keibe80/keibe80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
